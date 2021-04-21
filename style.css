@@ -1,0 +1,18 @@
+#div {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  p {
+      text-align: center;
+      font-size: 20px;
+  }
+  #test {
+      font-size: 50px;
+  }
+  #explosion {
+      display: none;
+      text-align: center;
+      font-size: 400px;
+  }
